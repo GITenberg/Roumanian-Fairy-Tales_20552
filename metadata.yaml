@@ -1,0 +1,40 @@
+_repo: Roumanian-Fairy-Tales_20552
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Kremnitz, Mite
+    aliases:
+    - Dito und Idem
+    - Kremnitz, Marie Charlotte
+    - Bardeleben, Marie von
+    birthdate: 1852
+    deathdate: 1916
+    gutenberg_agent_id: '9378'
+    url: http://www.gutenberg.org/2009/agents/9378
+    wikipedia: http://en.wikipedia.org/wiki/Mite_Kremnitz
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2007-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20552'
+  lccn: '44011920'
+language: en
+publication_note: 'New York :  Henry Holt and Company,  1885'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales -- Romania'
+tableOfContents: Stan Bolovan -- The wonderful bird -- The twins with the golden star
+  -- Youth without age and life without death -- The little purse with two half-pennies
+  -- Mogarzea and his son -- Cunning Ileane -- The princess and the fisherman -- Little
+  Wild-Rose -- The voice of death -- The old woman and the old man -- The Pea Emperor
+  -- The morning star and the evening star -- The two step-sisters -- The poor boy
+  -- Mother's darling Jack -- Tellerchen -- The fairy Aurora.
+title: Roumanian Fairy Tales
+url: http://www.gutenberg.org/ebooks/20552
